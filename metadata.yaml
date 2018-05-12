@@ -1,0 +1,46 @@
+_repo: -ber-die-Dichtkunst-beim-Aristoteles--13-Neu--bersetzt-und-mit-Einleitung-und-einem-erkl-rend__16880
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gudemann, Alfred
+    birthdate: 1862
+    deathdate: 1942
+    gutenberg_agent_id: '6999'
+    url: http://www.gutenberg.org/2009/agents/6999
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Aristotle
+    aliases:
+    - Aristoteles
+    - Αριστοτέλης
+    birthdate: -384
+    deathdate: -322
+    gutenberg_agent_id: '2747'
+    url: http://www.gutenberg.org/2009/agents/2747
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Aristotle
+    - http://el.wikipedia.org/wiki/%CE%91%CF%81%CE%B9%CF%83%CF%84%CE%BF%CF%84%CE%AD%CE%BB%CE%B7%CF%82
+description: ''
+gutenberg_bookshelf:
+- Classical Antiquity
+- DE Sachbuch
+gutenberg_issued: '2005-10-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16880'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Aristotle, 384 BC-322 BC'
+- !lcc 'PA'
+- !lcc 'PN'
+- !lcsh 'Poetry -- Early works to 1800'
+- !lcsh 'Classical literature'
+title: "Über die Dichtkunst beim Aristoteles\r\nNeu übersetzt und mit Einleitung und\
+  \ einem erklärenden Namen- und Sachverzeichnis versehen von Alfred Gudemann 1921"
+url: http://www.gutenberg.org/ebooks/16880
